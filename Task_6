@@ -1,0 +1,12 @@
+Task 6 - My Class Diagram Logic
+Student: Abduldaem Wali
+
+I started planning the structure of the system classes. The idea is to have a main User class that everyone shares (like name and email), and then specific details for Students and Organizers.
+
+Main classes I identified:
+- Student Class: to keep track of their major and total hours.
+- Activity Class: this holds the title, date, and location of each event.
+- Registration Class: this is the link between the student and the activity.
+- Attendance Class: to record who actually showed up using the QR code.
+
+The relationships are simple: one student can register for many activities, and each activity is managed by one organizer. Student affairs staff will oversee everything.
