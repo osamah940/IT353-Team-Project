@@ -1,0 +1,9 @@
+Individual Reflection - Abduldaem Wali
+
+In this project, I learned a lot about how to design a system from scratch. My main tasks were Task 4 (Use Case Model) and Task 6 (Class Diagram). 
+
+One of the biggest challenges I faced was understanding the relationship between the Student and the Attendance classes. I wasn't sure if attendance should be part of the registration or its own thing. After discussing with the team, I realized it should be separate because of the QR code scanning requirement.
+
+I used AI tools to help me organize my thoughts and check my English grammar, but the main ideas and logic came from our group discussions and the project scenario. 
+
+If I had more time, I would like to build a high-fidelity prototype to see how users would actually interact with the screens. Overall, it was a great experience working with my teammates Osama, Essa, and Mansour.
