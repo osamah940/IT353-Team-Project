@@ -1,0 +1,14 @@
+SAMS Project 353 - Task 4 Use Cases
+By: Abduldaem Wali
+
+In this part, I worked on identifying who will use the Student Activities Management System. We have three main types of users:
+1. Students: they are the ones looking for activities and signing up.
+2. Organizers: they create the events and manage the lists of students.
+3. Student Affairs: they have the authority to approve activities and print out final transcripts.
+
+I also drafted how the main processes will work:
+- For Registration: the system needs to check if the student is eligible and if there are seats left before confirming.
+- For Creating Activities: organizers fill a form, and it stays as a draft until someone from Student Affairs approves it.
+- For Transcripts: this is for the end of the year, where the system pulls all participation data for a specific student ID.
+
+This is my initial draft for the use cases logic.
