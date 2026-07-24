@@ -12,3 +12,4 @@ I also drafted how the main processes will work:
 - For Transcripts: this is for the end of the year, where the system pulls all participation data for a specific student ID.
 
 This is my initial draft for the use cases logic.
+Update: I double checked the actors and they seem correct for the current SAMS scope.
